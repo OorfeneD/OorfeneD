@@ -37,7 +37,7 @@ Literally, i'm **not** a cat 🙀!
 
 But this boy is so much like me in a many life situations, so i hope you`ll like he!
 
-![cat image](https://avatars.githubusercontent.com/u/46861423?s=96&v=4)
+<!-- ![cat image](https://avatars.githubusercontent.com/u/46861423?s=96&v=4) -->
 
 I really like to develop programs. I like to do some automations, improve efficiency of technical processes, etc. I like open source and want to improve my skills and are contribute to some unpopular projects with a good idea or just an entusiastic maintainer/maintainers.
 
