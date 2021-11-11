@@ -4,9 +4,13 @@
 
 🌱 I’m currently learning ⚙**CI/CD**, 🧪**Unit testing**, 🔥**Firebase**
 
-## Learning progress:
-
-### ⚙CI/CD
+<details>
+ <summary>
+  <b>Learning progress</b> 🎿 
+ </summary>
+ 
+ #### ⚙CI/CD
+ 
  - ✅ **NPM** scripts
  - ✅ **GitHub Actions**
  - 🔍 Unit Testing
@@ -18,13 +22,14 @@
 
 ---
 
-### 🔥 Firebase
+#### 🔥 Firebase
+
  - ✅ **Authentication**
  - ✅ **Functions**
  - 🔍 **Cloud Firestore**
  - ❌ **Analytics tools**
+</details>
 
----
 
 ## Something about me
 
@@ -32,11 +37,21 @@ Literally, i'm **not** a cat 🙀!
 
 But this boy is so much like me in a many life situations, so i hope you`ll like he!
 
+![cat image](https://avatars.githubusercontent.com/u/46861423?s=96&v=4)
+
 I really like to develop programs. I like to do some automations, improve efficiency of technical processes, etc. I like open source and want to improve my skills and are contribute to some unpopular projects with a good idea or just an entusiastic maintainer/maintainers.
 
 ## Skills and experience
 
-Samurai has no target, samurai has the way. My way is FullStack at that moment: 
+> 🗻 Samurai has no target, samurai has the path. ⛩
+
+> "It is good to face challenges in your youth. He who has never suffered will not sufficiently temper his character"
+> 
+> © *Yamamoto Tsunetomo*
+<details>
+  <summary>Many of text</summary>
+  
+My way is FullStack at that moment: 
 - **Nuxt** 
 - **Fastify**
 
@@ -54,6 +69,7 @@ Have good knowleges in next APIs:
 - **VK API**
 - **Twitch API**
 - **Telegram Bot API**
+</details>
 
 
 <!--
