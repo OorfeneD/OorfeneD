@@ -13,9 +13,9 @@
  
  - ✅ **NPM** scripts
  - ✅ **GitHub Actions**
- - 🔍 Unit Testing
+ - ✅ Unit Testing
     - ✅ [**Jest**](https://jestjs.io/)
-    - 🔍 [**Vue test utils**](https://vue-test-utils.vuejs.org)
+    - ✅ [**Vue test utils**](https://vue-test-utils.vuejs.org)
  - 🔍 **Google Cloud Platform**
  - ❌ **Docker**
  - ❌ **kubernetes**
